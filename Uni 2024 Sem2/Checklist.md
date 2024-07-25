@@ -9,7 +9,13 @@
 
 #Assessment 
 - CSSE2310
-	- [ ] GITHUB thingy needed to pass course (week 2)
+	- [ ] N/A
+- INFS2200
+	- [ ] N/A
+- MATH2001
+	- [ ] N/A
+- CSSE3200
+	- [ ] Git Exercise Due: 
 # Weeklies
 #Lectures 
 - CSSE2310
@@ -17,14 +23,16 @@
 	- [ ] Contact
 - INFS2200
 	- [ ] Lecture
-- CSSE3200
-	- [ ] Lecture
 - Math 2001
 	- [ ] Lecture 1
 	- [ ] Lecture 2
 	- [ ] Lecture 3
+- CSSE3200
+	- [ ] Lecture
 
 #Classes
+- CSSE2310
+	- [ ] Practical - Whenever you feel like it
 - INFS2200
 	- [ ] Practical - Thursday
 	- [ ] Tutorial - Thursday
@@ -33,5 +41,13 @@
 - CSSE3200
 	- [ ] Tutorial - Friday 11am
 	- [ ] Studio - Friday 2pm
+
+# Assessment Outline
 - CSSE2310
-	- [ ] Practical - Whenever you feel like it
+- INFS2200
+- MATH2001
+- CSSE2200
+	- Git Exercise (Pass/Fail)
+	- Sprint Submissions 60%
+	- Course Content Quiz 20%
+	- Individual Portfolio 20%
