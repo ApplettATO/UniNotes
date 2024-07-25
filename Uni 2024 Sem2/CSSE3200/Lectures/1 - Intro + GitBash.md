@@ -25,5 +25,21 @@
 	- Not every commit has a tag
 - Branching
 	- If Person A has version 1.0 and Person B has version 2.0 branching can be used to fix a bug in version 1.0 without changing version 2.0
-	- ![[Pasted image 20240725113159.png]]
-	-  main trun
+	- ![[Pasted image 20240725113445.png]]
+	- 1.x branch is disconnected from the main branch
+	- 2.x branch is connected to the main branch
+	- Commands
+		- branch lists the available branches
+		- -d delete branches
+		- checkout switches to working copy
+		- checkout -b creates a new branch
+- Merging 
+	- ![[Pasted image 20240725114205.png]]
+	- 3 way merging
+	- Connect a branch with the main branch
+	- Sometimes require manual intervention
+		- Chances of this are higher when there are more differences between branches
+		- If two people make a change at the same time
+- Local Version Control
+	- Revision history on local machine
+- Centralised Version Control
