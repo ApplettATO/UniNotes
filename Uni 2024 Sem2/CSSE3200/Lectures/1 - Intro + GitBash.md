@@ -26,4 +26,4 @@
 - Branching
 	- If Person A has version 1.0 and Person B has version 2.0 branching can be used to fix a bug in version 1.0 without changing version 2.0
 	- ![[Pasted image 20240725113159.png]]
-	- 
+	-  main trun
