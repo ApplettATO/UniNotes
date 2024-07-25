@@ -15,7 +15,9 @@
 - MATH2001
 	- [ ] N/A
 - CSSE3200
-	- [ ] Git Exercise Due: 
+	- [ ] Complete GIT100X - before friday
+	- [ ] Complete GIT200X
+	- [ ] Complete GIT300X
 # Weeklies
 #Lectures 
 - CSSE2310

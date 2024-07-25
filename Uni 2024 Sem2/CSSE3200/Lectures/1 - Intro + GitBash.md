@@ -43,3 +43,16 @@
 - Local Version Control
 	- Revision history on local machine
 - Centralised Version Control
+	- Revision history on central server
+	- Less likely to lose revision history
+	- Only has what people have committed
+	- Possible for the server to be overworked
+	- Overall not a great idea
+- Distributed Version Control
+	- Everyone has everything
+	- Repositories are synchronised
+- Other
+	- History is a directed acyclic graph
+	- Clone
+	- Last bit talks about what happens when you push, pull, fetch, etc
+	- Pull = Fetch + Merge
