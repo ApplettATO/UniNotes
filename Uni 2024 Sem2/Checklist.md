@@ -6,6 +6,7 @@
 - [ ] Revamp Checklist layout ?
 - [ ] Make separate checklist per assignment for each stage of the assignment
 - [ ] Catch-up on lectures
+- [ ] Book a learning thingo ?
 
 #Assessment 
 - CSSE2310
@@ -21,16 +22,16 @@
 # Weeklies
 #Lectures 
 - CSSE2310
-	- [ ] Lecture
-	- [ ] Contact
+	- [ ] Lecture - 2 Hours
+	- [ ] Contact - 1 Hour
 - INFS2200
-	- [ ] Lecture
+	- [ ] Lecture - 2 Hours
 - Math 2001
-	- [ ] Lecture 1
-	- [ ] Lecture 2
-	- [ ] Lecture 3
+	- [ ] Lecture 1 - 1 Hour
+	- [ ] Lecture 2 - 1 Hour
+	- [ ] Lecture 3 - 1 Hour
 - CSSE3200
-	- [ ] Lecture
+	- [x] Lecture - 2 Hours
 
 #Classes
 - CSSE2310
