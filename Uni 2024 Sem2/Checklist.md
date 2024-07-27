@@ -49,6 +49,8 @@
 - CSSE2310
 - INFS2200
 - MATH2001
+	- 4 Assignments 10% Each
+	- Exam 60%
 - CSSE2200
 	- Git Exercise (Pass/Fail)
 	- Sprint Submissions 60%
