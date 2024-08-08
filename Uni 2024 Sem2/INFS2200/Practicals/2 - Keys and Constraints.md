@@ -6,4 +6,7 @@ vscode usable
 
 View constraints (2.6)
 
-Create a foreign key (2.8)
+Create a foreign key (2.9)
+
+3.0 +
+CASCADE
