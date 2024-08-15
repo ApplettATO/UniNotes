@@ -1,4 +1,6 @@
 psql
 - gets into psql mode
+CREATE DATABASE Name
+- creates a database
 \\c Name
-- Creates a database
+- Opens a database
