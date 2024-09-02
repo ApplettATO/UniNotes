@@ -1,4 +1,4 @@
-To malloc a string of characters, we need to multiply the number of bytes of a char by the number of chars we need in our string, without forgetting to add an extra char for the final `\0`.
+ To malloc a string of characters, we need to multiply the number of bytes of a char by the number of chars we need in our string, without forgetting to add an extra char for the final `\0`.
 ```
 char *cpy; char str[7] = "Hello!"; 
 // Let's say we want to malloc enough space to make a copy of str. We need to multiply the size of a char by the length of str, +1 for the final \0. 
